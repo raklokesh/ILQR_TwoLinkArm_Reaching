@@ -16,7 +16,7 @@ The following articles were referred to complete this project.
 The initialization of control actions at each time step was obtained by modeling the problem as an infinite horizon LQR. The reaching trajectories due to this control are unsatisfactory as shown in the [initial animation](https://github.com/Rakshith6/ILQR_TwoLinkArm_Reaching/blob/master/AnimateLinksInitial.mp4.avi) and figure below (red trajectories). 
 
 ## ILQR controller 
-The controller actions were optimized iteratively using methods described in (2). The final control solutions (shown in blue) were reached under 10 iterations for all targets. Trajectories from selected iterations are shown in grey.
+The controller actions were optimized iteratively using methods described in (2). The final control solutions (shown in blue) were reached under 10 iterations for all targets. Trajectories from selected iterations are shown in grey (dark to light in increasing iteration number).
 
-[](https://github.com/Rakshith6/ILQR_TwoLinkArm_Reaching/blob/master/Trajectory_AllTargets.png)
+![](https://github.com/Rakshith6/ILQR_TwoLinkArm_Reaching/blob/master/Trajectory_AllTargets.png)
 
