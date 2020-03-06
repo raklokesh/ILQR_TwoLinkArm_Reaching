@@ -1,6 +1,6 @@
 # Simulation of point to point reaching using a two link human arm model controlled by an iLQR controller
 
-Worked on this as a part of the project for the optimal control course which I took in 2017 (All the code files are from 2017)
+# Simulation of human reaching using two-link planar human arm model controlled by an ILQR controller
 
 The following articles were referred to complete this project.
 
